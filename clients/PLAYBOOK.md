@@ -51,3 +51,13 @@ A good lead has all three:
 | Business | Contact | Site | Problem spotted | Demo sent | Replied | Offer sent | Status |
 |---|---|---|---|---|---|---|---|
 | Donald Bowman Massage | (517) 927-3883 | blindmassage.com | Can't edit BodyworkSites, photos/video missing | yes | yes | yes | Accepted, transfer in progress |
+| Lansing Upholstering Service & Interior Accents | (517) 485-8950 | interioraccentslansing.com | Dated Thryv site, stock photo instead of their own work, Yahoo email | no | | | Lead |
+| Our Shop Upholstery | ourshopupholstery@outlook.com | Facebook only | No website, "message us on Facebook" | no | | | Lead |
+
+### Scan notes (2026-09-28)
+Checked ~30 Lansing small-business sites. Most were fine (Wix, Squarespace, Duda, agency WordPress):
+Frandor Tailor, Low Cost Auto, Randall Auto, Lake Lansing Rd Mobil, Holt Auto, Lansing Chiropractic,
+Silver Platter Cleaning, Keast Lawn, Four Seasons Lawn, Quality Tire, Tooth & Nail Grooming,
+Gall Sewing (gallsewingvac.com), Muffler Man, Richardson Music Studio (old Weebly, but works on phones).
+Lesson: "bad website" is rarer than expected. Better targets are businesses with **no website**
+(Facebook-only or Google listing only) and owners stuck on platforms they can't edit.
