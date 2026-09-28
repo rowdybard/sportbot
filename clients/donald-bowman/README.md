@@ -29,3 +29,8 @@ cancel the old site until the new one is live and booking, PayPal, and email are
 - Friday to Sunday hours (the old site only lists Monday to Thursday).
 - Whether the email address still works and whether PayPal is still in use.
 - Where his domain is registered. The domain's email (MX) records must be kept when DNS moves.
+
+## Deal and message
+
+- `AGREEMENT.md`: the terms ($300 one-time, $10/month, $25 per change with batch pricing).
+- `OFFER-MESSAGE.txt`: plain-text message to send Don. Plain text on purpose, so it reads cleanly on his screen reader.
