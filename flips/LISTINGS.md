@@ -48,3 +48,40 @@ Price each piece using eBay **sold** comps. Suggested approach:
 |------|-----------|----------------|
 | CRT, porch swing, haul items | As soon as cleaned | Every 7 days, drop 10% |
 | Snowblowers | ~Nov 1 | Day before first snow forecast — repost at full price |
+
+---
+
+# Studio rack bundle: part-out listings
+Post the big three (Eleven Rack, DEQ2496, NT1) on **Reverb and FB** the same day. Put the small pieces on FB only.
+Photos: front, back panel, powered-on display, serial plate. Always say "tested working".
+
+## Avid Eleven Rack
+**Title:** Avid Eleven Rack: Guitar Amp Modeler + Pro Tools Audio Interface (Tested)
+**Price:** $229 (floor $150)
+> Avid Eleven Rack amp/effects modeler and USB audio interface. Tested: boots, passes audio, all knobs and footswitch
+> jacks work. Great for recording guitar direct or as a live rig. Rack-mount 2U. [Power cable included.]
+> Local pickup in Lansing or I can ship.
+
+## Behringer DEQ2496 Ultracurve Pro
+**Title:** Behringer DEQ2496 Ultracurve Pro: EQ / Room Correction / Mastering (Tested)
+**Price:** $189 (floor $140)
+> DEQ2496 digital EQ and room-correction processor. Display and all buttons work, tested with audio in and out.
+> Popular for hi-fi room correction (auto-EQ with an RTA mic) and live sound. Local pickup or ship.
+
+## Rode NT1 condenser mic
+**Title:** Rode NT1 Studio Condenser Microphone [with shock mount / pop filter?]
+**Price:** $169 (floor $120)
+> Rode NT1 large-diaphragm condenser [version]. Very low self-noise, great for vocals, podcasts and acoustic guitar.
+> Tested, clean, no rattles. Needs 48V phantom power. Local pickup or ship.
+
+## Small pieces (FB, local)
+| Item | List | Floor |
+|------|------|-------|
+| ART Tube MP preamp | $45 | $30 |
+| Behringer XR4400 Multigate | $60 | $40 |
+| Samson E30 graphic EQ | $40 | $25 |
+| DigiTech DSP16 multi-FX (vintage) | $50 | $30 |
+| Rack case | $80 | $40 |
+| Cable/adapter lot | $35 | $20 |
+
+**Or sell all the small pieces as one bundle:** "Home studio starter rack: ART Tube MP preamp, noise gate, EQ, multi-FX, rack case + cables", $199 (floor $140).
