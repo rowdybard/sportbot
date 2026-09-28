@@ -21,8 +21,9 @@ A good lead has all three:
   "Control Panel" link in the footer.
 - Find them: [AMTA Find a Massage Therapist](https://www.amtamassage.org/find-massage-therapist/),
   search Lansing / East Lansing / Okemos / Holt / DeWitt, open each therapist's website.
-- Pitch line: "You're paying about $50 a month for a site you have to edit yourself. For $10 a
-  month I host it and make the changes for you."
+- Pitch line: "You're paying about $50 a month for a site you have to edit yourself. I can host
+  it for $10 a month, and when you need a change you just call or text me. Changes are $25 each,
+  cheaper in batches."
 
 ### Lyft passengers
 - When someone mentions they run a business, ask for the website name. Look at it after the ride.
