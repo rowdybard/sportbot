@@ -7,7 +7,7 @@ Move blindmassage.com to the new site and finish the redesign, including:
 - The four changes Don asked for (photos, studio tour video, "a massage therapist who happens to be blind", new first-visit process).
 - Moving the domain so it is registered in Don's own name.
 - Keeping his email address working through the move.
-- Testing booking, the PayPal payment form, and email before the old site is shut off.
+- Testing the Square booking link, payment links, and email before the old site is shut off.
 Due when the new site is live and Don has confirmed it works. Don does not cancel the old site until then.
 
 ## Monthly: $10
@@ -32,4 +32,4 @@ Don can request changes however is easiest for him: phone call, text, voice mess
 - If Don ever wants to leave, Daniel hands over the site files and helps move the domain, free.
 
 ## Payment
-Invoiced by email through Square or PayPal, whichever Don prefers.
+Invoiced by email through Square or Venmo, whichever Don prefers.
