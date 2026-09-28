@@ -12,7 +12,7 @@ Target: turn ~$200 into **$550–1,200 revenue** by mid-December.
 | # | Deal | Ask | Offer | Extra cost | Sell when | Target sale | Link |
 |---|------|-----|-------|-----------|-----------|-------------|------|
 | 1 | **Ariens ST824 2-stage snowblower** — runs, needs 2 belts + belt cover (Lansing, posted 8/29) | $50 | $40–50 | ~$45–60 belts + cover | Nov–Dec | $175–275 | [CL](https://www.craigslist.org/view/d/lansing-ariens-snow-blower/3Ve3itgccu6feo9Tk3uw7z) |
-| 2 | **Early-80s John Deere snowblower**, electric + pull start (Perry, "prices not firm") | $100 obo | $60–75 | tune-up ~$15 | Nov–Dec | $200–350 | [CL](https://www.craigslist.org/view/d/perry-everythings-gotta-go/mmgV4mdVSqZqQEVfuR744K) |
+| 2 | **John Deere 1032 snowblower** (10HP, 32" 2-stage, early 80s), electric + pull start (Perry, "prices not firm") | $100 obo | $70–90 | tune-up ~$15 | Nov–Dec | $275–450 | [CL](https://www.craigslist.org/view/d/perry-everythings-gotta-go/mmgV4mdVSqZqQEVfuR744K) |
 | 3 | **Free garage haul — Delta Twp.** Bikes & parts, drone, antique banknotes, tools, string/hedge trimmers, vacuums, lamps. Catch: you must take the carpet + pad | $0 | — | dump/transfer fee ~$20–40 | Now | $150–400 split | [CL](https://www.craigslist.org/view/d/lansing-free-stuff/qbsqXWtqYWahQN9XEN3eoT) |
 | 4 | **RCA XL-100 CRT TV** (East Lansing, 3rd floor, "gamers like") | Free | — | — | Now | $40–120 to retro gamers | [CL](https://www.craigslist.org/view/d/east-lansing-rca-xl100-color-television/mBbvpchpNycUBKDeU262Kr) |
 | 5 | **2-person porch swing** (listed Howell area; post says Sunrise Pk St near Grand River) | Free | — | — | Now or spring | $40–80 | [CL](https://www.craigslist.org/view/d/howell-two-person-porch-swing/9rzopnQqFaz7f4N836L9Vk) |
