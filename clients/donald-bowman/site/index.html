@@ -29,10 +29,7 @@
     "addressCountry": "US"
   },
   "openingHoursSpecification": [
-    {"@type": "OpeningHoursSpecification", "dayOfWeek": "Monday", "opens": "11:00", "closes": "22:00"},
-    {"@type": "OpeningHoursSpecification", "dayOfWeek": "Tuesday", "opens": "11:00", "closes": "21:30"},
-    {"@type": "OpeningHoursSpecification", "dayOfWeek": "Wednesday", "opens": "11:00", "closes": "21:00"},
-    {"@type": "OpeningHoursSpecification", "dayOfWeek": "Thursday", "opens": "11:00", "closes": "21:00"}
+    {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday"], "opens": "10:00", "closes": "22:00"}
   ],
   "sameAs": [
     "https://www.facebook.com/DonaldBowmanMassage",
@@ -190,18 +187,21 @@
         <table class="hours">
           <caption class="visually-hidden">Office hours</caption>
           <tbody>
-            <tr><th scope="row">Monday</th><td>11:00 am – 10:00 pm</td></tr>
-            <tr><th scope="row">Tuesday</th><td>11:00 am – 9:30 pm</td></tr>
-            <tr><th scope="row">Wednesday</th><td>11:00 am – 9:00 pm</td></tr>
-            <tr><th scope="row">Thursday</th><td>11:00 am – 9:00 pm</td></tr>
+            <tr><th scope="row">Monday</th><td>10:00 am – 10:00 pm</td></tr>
+            <tr><th scope="row">Tuesday</th><td>10:00 am – 10:00 pm</td></tr>
+            <tr><th scope="row">Wednesday</th><td>10:00 am – 10:00 pm</td></tr>
+            <tr><th scope="row">Thursday</th><td>10:00 am – 10:00 pm</td></tr>
+            <tr><th scope="row">Friday – Sunday</th><td>Closed</td></tr>
           </tbody>
         </table>
         <h3 id="pay">Make a payment</h3>
-        <p>You can pay Don with Venmo or Square.</p>
-        <p class="pay-links">
-          <a class="btn btn-secondary" href="VENMO_LINK_TODO">Pay with Venmo</a>
-          <a class="btn btn-secondary" href="SQUARE_PAY_LINK_TODO">Pay with Square</a>
-        </p>
+        <p>Don accepts payment through Square and Venmo:</p>
+        <ul>
+          <li>When you book through <a href="https://squareup.com/appointments/book/41FP7BKNZWS80/donald-bowman-massage-therapist-lansing-mi">Square Appointments</a></li>
+          <li>By Square invoice, sent to you by Don</li>
+          <li>By credit card in person</li>
+          <li>By Venmo to <a href="https://venmo.com/u/BOWMAN16">@BOWMAN16</a></li>
+        </ul>
       </div>
     </div>
   </section>

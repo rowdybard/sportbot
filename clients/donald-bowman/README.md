@@ -27,8 +27,12 @@ cancel the old site until the new one is live and booking, PayPal, and email are
 
 ## Before going live
 
-- Replace `VENMO_LINK_TODO` and `SQUARE_PAY_LINK_TODO` in `site/index.html` with Don's real links.
-- Confirm Friday to Sunday hours (the old site only lists Monday to Thursday).
+- Open https://venmo.com/u/BOWMAN16 and confirm it is Don's profile before going live.
+- Hours confirmed by Don: Monday to Thursday 10 am to 10 pm, closed Friday to Sunday.
+- Payments confirmed by Don: Square (booking app, invoices, card in person) and Venmo. No PayPal.
+- Domain: Don never had a GoDaddy account. BodyworkSites registered it for him, so it is in
+  their reseller account. Don must request the transfer authorization code from them (see
+  `BODYWORKSITES-REQUEST.txt`).
 
 ## Domain and email facts (checked 2026-09-28)
 
