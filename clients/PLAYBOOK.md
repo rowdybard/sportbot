@@ -50,7 +50,7 @@ A good lead has all three:
 ## Tracker
 | Business | Contact | Site | Problem spotted | Demo sent | Replied | Offer sent | Status |
 |---|---|---|---|---|---|---|---|
-| Donald Bowman Massage | (517) 927-3883 | blindmassage.com | Can't edit BodyworkSites, photos/video missing | yes | yes | yes | Accepted, transfer in progress |
+| Donald Bowman Massage | (517) 927-3883 | blindmassage.com | Can't edit BodyworkSites, photos/video missing | yes | yes | yes | Live 2026-10-02, invoiced $300 |
 | Lansing Upholstering Service & Interior Accents | (517) 485-8950 | interioraccentslansing.com | Dated Thryv site, stock photo instead of their own work, Yahoo email | no | | | Lead |
 | Our Shop Upholstery | ourshopupholstery@outlook.com | Facebook only | No website, "message us on Facebook" | no | | | Lead |
 
